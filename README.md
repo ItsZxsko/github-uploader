@@ -3,3 +3,8 @@
 **NodeJS**
 # What is that's 👀 ?
 It's a github uploader for upload files / delete files in repository
+# COPYRIGHT 🚨
+by Zisko
+# LICENCE 💎
+MIT
+
